@@ -1,0 +1,1 @@
+python /usr/local/bin/clear_wherefroms.py "$@"
