@@ -1,8 +1,8 @@
 class Clearmetadata < Formula
     desc "A terminal program that clears the 'where from' metadata attribute from a file on macOS"
     homepage "https://example.com"
-    url "https://example.com/clearmetadata-1.0.tar.gz"
-    sha256 "..."
+    url "https://raw.githubusercontent.com/allmightychaos/clear-where-from/main/rmd.py"
+    sha256 "23fd8c892c0b7b01f2789c0e88f9bfec973aeb5bb1e4e4856b4a86edc9d341a6"
     license "MIT"
   
     def install
